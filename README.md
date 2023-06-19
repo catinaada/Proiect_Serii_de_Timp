@@ -13,4 +13,4 @@ Aplicatia 3. Sa se investigheze natura relatiei dintre variabile pe baza:
 
 [Project Serii de Timp (1).pdf](https://github.com/catinaada/Proiect_Serii_de_Timp/files/11789308/Project.Serii.de.Timp.1.pdf)
 
-![Screenshot1](https://github.com/catinaada/Proiect_Serii_de_Timp/assets/114821541/7dc35133-79ea-4f90-bd15-56d43c86ac7b)
+![Screenshot1](https://github.com/catinaada/Proiect_Serii_de_Timp/assets/114821541/14a4e650-2956-4b23-9932-b6140f8d0c0d)
